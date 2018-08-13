@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg navbar-dark">
+
+  <a class="navbar-brand text-white mb-0 h1" > Examen 2Bim - JPAS  --  Autores / Libros </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/home']"> Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/carrito']" align="right"> <i class="icon ion-md-cart"></i> <span class="glyphicon glyphicon-shopping-cart">{{indice}}</span> Carrito de Compras</a>
+      </li>
+
+    </ul>
+
+    <button type = "button" class = "btn btn btn-default -LG">
+      <span class="glyphicon glyphicon-user" > </span> Hola {{nombre}} </button>
+  </div>
+</nav>
