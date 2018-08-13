@@ -1,0 +1,5 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"createdAt":1531715770359,"updatedAt":1531715770359,"id":1,"nombre":"Megan","apellido":"Maxwell","fechaNacimiento":"1965-02-26","numeroLibros":6,"urlImagen":"http://letrasenvena.com/wp-content/uploads/2012/11/Megan_Maxwell.jpg","_id":1}
+{"createdAt":1531812437870,"updatedAt":1531812437870,"id":2,"nombre":"Joanne","apellido":"Rowling","fechaNacimiento":"1965-07-31","numeroLibros":10,"urlImagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8NzgzSXvU71Z9UKzijNRHttVZLRA-0iFdJUmD97jUBMHJ3Yv","_id":2}
+{"createdAt":1534139983138,"updatedAt":1534139983138,"id":3,"nombre":"Dan ","apellido":"Brown","fechaNacimiento":"1964-06-22","numeroLibros":5,"urlImagen":"https://planetadelibrosec2.cdnstatics.com/usuaris/autores/fotos/22/tam_1/000021093_1_Dan_Brown_C_Quim_Vives_201709111713.jpg","_id":3}
+{"createdAt":1534143673764,"updatedAt":1534143673764,"id":4,"nombre":"Blue","apellido":"Jeans","fechaNacimiento":"1978-11-07","numeroLibros":1,"urlImagen":"https://planetadelibrosec9.cdnstatics.com/usuaris/autores/fotos/39/tam_1/000038957_1_Blue_Jeans_(c)_Ester_Ramon_201803081603.jpg","_id":4}
